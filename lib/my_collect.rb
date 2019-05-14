@@ -5,7 +5,7 @@ def my_collect(empty)
     empty.collect do |empty|
       empty.capitalize
       gloob = empty.split
-      return gloob.first
+      gloob.first
     end
     else 
   empty.collect do |empty|
